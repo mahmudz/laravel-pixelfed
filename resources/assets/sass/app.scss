@@ -1,0 +1,28 @@
+
+// Fonts
+@import "fonts";
+@import "lib/fontawesome";
+
+// Variables
+@import "variables";
+
+// Bootstrap
+@import '~bootstrap/scss/bootstrap';
+
+@import "custom";
+
+@import "components/filters";
+
+@import "components/typeahead";
+
+@import "components/notifications";
+
+@import "components/switch";
+
+@import '~bootstrap-vue/dist/bootstrap-vue.css';
+
+@import '~plyr/dist/plyr.css';
+
+@import '~vue-loading-overlay/dist/vue-loading.css';
+
+@import "moment";
